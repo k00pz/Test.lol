@@ -230,7 +230,7 @@ DetectSpam()
 
 game.StarterGui:SetCore("SendNotification", {
     Title = "Made by Fsploit"; 
-    Text = "#team Exploit X"; 
+    Text = "#team Exploit X / mobile parry"; 
     Icon = ""; 
     Duration = 2;
     Callback = bindableFunction;
